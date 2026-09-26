@@ -37,6 +37,4 @@ Week 2 Report
 Week 3 Report
 Final Project Report
 ## Author
-Muskan
-Machine Learning Explorer Intern
-Yuva Intern
+Muskan | Machine Learning Explorer Intern | Yuva Intern
